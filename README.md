@@ -15,6 +15,7 @@ to track KPIs (sales, revenue, profit, returns), compare regional performance, a
 and to have answers to the following questions.
 
 Summary of Findings
+
 In terms of sub-category, Tires and Tubes , Helmets, Road-Bikes are the top 3 performing products in terms of total orders.
 
 Water Bottle was the top product that drove the most orders, while Mountain-200-black Bike generated the most profit.
